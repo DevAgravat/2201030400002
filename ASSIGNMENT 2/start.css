@@ -1,0 +1,130 @@
+/*Header section*/
+/*
+#FFB534
+#FBF6EE
+#C1F2B0
+#65B741
+*/
+body{
+    background-color: whitesmoke;
+    
+}
+.block1{
+    width:80px;
+    display: inline-block;
+  padding: 10px 10px 10px 10px;
+  background-color: #FFB534;
+  margin: 20px 90px 90px 40px;
+  color: #fff;
+  
+  border-radius: 5px;
+}
+#main h3{
+    margin: 40px 20px 10px 20px;
+    font-family:cursive;
+    font-weight: 600px;
+}
+#main{
+      font-style: irish grover;
+       height: 150px;
+       width:1200px;
+       background-color: #8af15d;
+       margin: 40px 20px 20px 30px;
+       border-radius: 25px;
+       padding-top: 5px;
+}
+#main button{
+    background-color: #FFB534;
+    border-radius: 20px;
+}
+#main img{
+    margin-left: 100px;
+    mix-blend-mode: multiply;
+    height:100px;
+    margin-top: -80px;
+    border-radius: 20px;
+}
+#main input{
+    height:20px;
+    border-radius:20px;
+    background-color:#FBF6EE ;
+}
+#m2{
+    margin: -180px 10px -10px 1250px;
+    padding: 20px 20px 20px 20px;
+    height: 200px;
+    width:200px;
+    background-color: #8af15d;
+    border-radius: 25px;
+}
+#m2 input{
+    height: 100px;
+    border-radius: 20px;
+    background-color:#FBF6EE ;
+}
+#m2 button{
+    background-color: #FFB534;
+    border-radius: 20px;
+}
+/*main section*/
+#imgc1 img{
+    height: 500px;
+    width: 700px;
+    margin-left: 30px;
+    margin-top: -10px;
+    border-radius: 20px;
+}
+#para1{
+    margin:-490px 50px -10px 800px;
+    font-size: 18px;
+    font-family: cursive;
+}
+.para2 {
+   margin:40px 20px 20px 30px;
+   width:1200px;
+   height:150px;
+   padding: 10px 10px 10px 10px ;
+   font-size: 18px;
+   background-color: #FFB534;
+   border-radius: 20px;
+}
+#click{
+    margin-top: 20px;
+    display: flex;
+}
+.class1{
+          height: 280px;
+          width:500px;
+          background-color: #8af15d;
+          padding: 10px 10px 10px 10px;
+          margin: 5px 5px 5px 20px;
+          border-radius: 20px;
+}
+.class1 img{
+    padding-left: 10px;
+    border-radius: 20px;
+    margin-top: -5px;
+}
+/*footer section*/
+#foot{
+    background-color: #8af15d;
+    height: 200px;
+    border-radius: 20px;
+    margin-left: 20px;
+    padding: 20px 0px 0px 20px;
+}
+#f1{
+    
+    margin:10px 20px 20px 40px;
+   
+}
+#f2{
+   
+    margin:-100px 0px 0px 1200px;
+}
+#f2 input{
+    border-radius: 20px;
+}
+#f2 button{
+    background-color: #FFB534;
+}
